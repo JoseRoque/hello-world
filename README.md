@@ -1,4 +1,4 @@
 # hello-world
 TAP Austin October 2015
 
-edited read me
+SomeThing about Me
